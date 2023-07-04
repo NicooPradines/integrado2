@@ -1,2 +1,2 @@
 # runnick
-En esta version se agrega los planes de entrenamiento, la tienda
+En esta version se agrega registro de usuarios,carga de publicaciones y la tienda
